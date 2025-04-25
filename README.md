@@ -2,7 +2,7 @@
 <p align="center">
  <![Binary Code Presentation in Bright Colors Funky Retro Style](https://github.com/user-attachments/assets/358fd797-049c-48f6-aafb-ad2018ebeaf9)>
 </p>
-<h2 align="center">Hello there! My name is Esther A. Vollmer 👋🤓</h2>
+<h2 align="center">Hello there! My name is Esther Ayun 👋🤓</h2>
 <p align="center">I'm currently a "WIP" while deepening my knowledge and skills in Data Analytics. I'm passionate about areas of data visualisation on Tableau, amazing SQL syntaxes and of course the powerful exploration of Excel as a tool. Strong background on Programmatic and Online Advertising, more than a decade over marketing as a whole. I've started exploring other visualisation tools too such as Looker and Power BI too, gaining extra side knowledge on R and Python ✨ and hope to contribute to that field as well. 
 </p>
 
