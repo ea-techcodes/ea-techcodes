@@ -2,9 +2,9 @@
 <p align="center">
  <![Binary Code Presentation in Bright Colors Funky Retro Style](https://github.com/user-attachments/assets/358fd797-049c-48f6-aafb-ad2018ebeaf9)>
 </p>
-<h2 align="center">Hello there! Anun bala? 👋🤓</h2>
+<h2 align="center">Hello there! Anun bala? 👋</h2>
 
-# 👋 I’m Esther,  a data analyst with a storytelling mindset
+# 🤓 I’m Esther,  a data analyst with a storytelling mindset
 
 With a strong foundation in data analytics and a background in digital marketing, I focus on turning raw data into strategic insights that support better decisions, clearer reporting, and measurable outcomes.
 
