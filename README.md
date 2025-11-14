@@ -4,7 +4,7 @@
 </p>
 <h2 align="center">Hello there! Anun bala? 👋🤓</h2>
 
-# 👋 Hi, I’m Esther — a data analyst with a storytelling mindset
+# 👋 I’m Esther,  a data analyst with a storytelling mindset
 
 With a strong foundation in data analytics and a background in digital marketing, I focus on turning raw data into strategic insights that support better decisions, clearer reporting, and measurable outcomes.
 
